@@ -1,5 +1,5 @@
 # Homogeneity_Test_Combined_Data
-The source code is contained in folder <homogeneity_test> written in Fortran, assuming default compiler <gfortran>
+The source code is contained in folder <homogeneity_test> written in Fortran, assuming default compiler is "gfortran"
 
 Assume the current workdirectroy is: path-to/homogeneity_test/
 
