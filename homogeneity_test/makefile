@@ -32,7 +32,6 @@ FILES+= read_input.o simu_data.o quartic_rt.o cdflib.o mle.o
 FILES+= matrix_inv.o Fisher_Info.o test_statistics.o
 FILES+= write2sas.o
 FILES+= emp_TIE_power.o
-#FILES+= xchk_mle.o
 
 
 
