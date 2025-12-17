@@ -1,5 +1,6 @@
 # Homogeneity_Test_Combined_Data
 The source code is contained in folder <homogeneity_test> written in Fortran, assuming default compiler <gfortran>
+
 Assume the current workdirectroy is: path-to/homogeneity_test/
 
 In order to make the code fully compilable, the external LAPACK package needs be compiled first. 
