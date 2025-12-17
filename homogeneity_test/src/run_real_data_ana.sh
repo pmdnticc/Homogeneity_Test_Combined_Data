@@ -1,0 +1,1 @@
+gfortran -std=legacy -ffixed-line-length-none -O2 -I../Inc -I../lapack-3.12.1 -L../lapack-3.12.1 cernroutines.f quartic_rt.f cdflib.f90 mle.f matrix_inv.f90 Fisher_Info.f simu_data.f test_statistics.f real_data_ana.f -o real_data_ana.exe -llapack -lrefblas
